@@ -1,16 +1,19 @@
-## Hi there 👋
+![test-driven development](https://media1.giphy.com/media/v1.Y2lkPTdiYzJhNDkwcWYxODN3eXc5NW9zN3BtOWo0cDhucHdldmplYXFveGJnNjRrcGE5bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TJBbXQooivUNq/giphy.gif)
 
-<!--
-**flamewalker103-commits/flamewalker103-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Introducción
+Hola, soy flamewalker103-commits, un desarrollador con experiencia en diversas tecnologías y un fuerte enfoque en el trabajo en equipo.
 
-Here are some ideas to get you started:
+# Habilidades
+- Programación en Python, JavaScript y Java.
+- Desarrollo web (HTML, CSS, React).
+- Bases de datos (MySQL, MongoDB).
+- Control de versiones (Git).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Proyectos
+- **Gestor de Tareas**: Aplicación web para organizar tareas personales.
+- **API de Clima**: API RESTful para obtener datos meteorológicos.
+- **Juego de Aventura**: Juego interactivo desarrollado en JavaScript.
+
+# Contactos
+- **Correo**: flamewalker103@example.com
+- **LinkedIn**: [linkedin.com/in/flamewalker103](https://linkedin.com/in/flamewalker103)
